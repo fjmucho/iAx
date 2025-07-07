@@ -20,6 +20,13 @@
 *.tar
 *.zip
 
+# PDFs files #
+######################
+articles and Tesis
+*.doc
+*.docx
+*.pdf
+
 # Logs and databases #
 ######################
 *.log
@@ -39,10 +46,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# PDFs files #
-######################
-*.pdf
 
 # python files
 ######################

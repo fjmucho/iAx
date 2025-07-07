@@ -40,6 +40,10 @@
 ehthumbs.db
 Thumbs.db
 
+# PDFs files #
+######################
+*.pdf
+
 # python files
 ######################
 *~

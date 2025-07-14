@@ -1,9 +1,4 @@
-# Physics-informed neural networks (PINNs)
-
-This workshop builds upon my blog post on PINNs: https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/. 
-
-Read the seminal PINN papers [here](https://ieeexplore.ieee.org/document/712178) and [here](https://www.sciencedirect.com/science/article/pii/S0021999118307125).
-
+# iAx
 ## Contenido.
 - Introduccion
     - code a PINN, NR, ... from scratch in PyTorch, TensorFlow, Skitlern
@@ -15,7 +10,7 @@ Read the seminal PINN papers [here](https://ieeexplore.ieee.org/document/712178)
     - Automatic programing
     - Knowledge representation
     - ...
-- Aprendisaje por amquina | Machine Learning 
+- Aprendisaje por maquina | Machine Learning 
     - Linear-Logistic regresion
     - Random Forest
     - K-Means
@@ -34,9 +29,13 @@ Read the seminal PINN papers [here](https://ieeexplore.ieee.org/document/712178)
     - Algoritmos CNN
     - ...
 - Workshop goals: By the end of this workshop, you should be able to:
-    - understand the different types of scientific tasks PINNs can be used for
+    - understand the different types of scientific tasks PINNs can be used for Physics-informed neural networks (PINNs)
     - understand in more detail how PINNs are trained and how to improve their convergence
 
 ## referencias.
 - https://github.com/fsancho
 - https://github.com/ChangZhouLab
+- https://github.com/wenjie-liao/StructGAN_v1
+- https://github.com/ipsumium/ML_civil_engineering/tree/master
+
+- PINNs: https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/, Read the seminal PINN papers [here](https://ieeexplore.ieee.org/document/712178) and [here](https://www.sciencedirect.com/science/article/pii/S0021999118307125).

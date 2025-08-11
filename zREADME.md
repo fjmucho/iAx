@@ -51,3 +51,4 @@ Concrete Strength Prediction
 1. Concrete Compressive Strength Data Set: https://archive.ics.uci.edu/ml/datasets/concrete+compressive+strength
 
 - PINNs: https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/, Read the seminal PINN papers [here](https://ieeexplore.ieee.org/document/712178) and [here](https://www.sciencedirect.com/science/article/pii/S0021999118307125).
+- https://github.com/spossito/AI
